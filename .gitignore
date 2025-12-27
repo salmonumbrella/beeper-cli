@@ -1,0 +1,31 @@
+# Build artifacts
+/beeper
+dist/
+
+# IDE
+.cursor/
+.idea/
+.vscode/
+
+# Specstory
+.specstory/
+
+# Dependencies
+node_modules/
+
+# Generated TypeScript CLI (mcporter)
+beeper.ts
+package.json
+package-lock.json
+bun.lock
+bun.lockb
+
+# Temp
+tmp/
+*.log
+
+# Local config
+lefthook.yml
+
+# Documentation (internal plans)
+docs/
